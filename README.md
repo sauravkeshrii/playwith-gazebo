@@ -1,1 +1,1 @@
-## All the commands will be written here!
+## All the Ubuntu bash commands will be written here!
